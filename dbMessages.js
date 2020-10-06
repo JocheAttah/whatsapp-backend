@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-// we'll defin our data skimmer.. how the data would be built
+// we'll defin our data schema.. how the data would be built
 
 const whatsappSchema = mongoose.Schema({
   message: String,
