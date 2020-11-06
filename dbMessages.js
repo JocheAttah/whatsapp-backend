@@ -10,4 +10,4 @@ const whatsappSchema = mongoose.Schema({
 });
 
 // setup collection messageContent
-export default mongoose.model("messageContent", whatsappSchema);
+export default mongoose.model("messagecontent", whatsappSchema);
